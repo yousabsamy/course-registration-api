@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Node.js, Express & MongoDB Bootcamp",
+    "description": "Build RESTful APIs with Node.js, Express and MongoDB from scratch.",
+    "category": "Web Development",
+    "instructorName": "Mahmoud Farouk",
+    "price": 1200,
+    "durationWeeks": 8,
+    "capacity": 3,
+    "startDate": "2026-09-01",
+    "isPublished": true
+  },
+  {
+    "title": "Modern React & Redux",
+    "description": "Learn React 18, hooks, and Redux Toolkit by building real projects.",
+    "category": "Web Development",
+    "instructorName": "Nourhan Adel",
+    "price": 1000,
+    "durationWeeks": 6,
+    "capacity": 2,
+    "startDate": "2026-09-15",
+    "isPublished": true
+  },
+  {
+    "title": "Python for Data Analysis",
+    "description": "Pandas, NumPy and data visualization for real-world datasets.",
+    "category": "Data Science",
+    "instructorName": "Omar Khaled",
+    "price": 1500,
+    "durationWeeks": 10,
+    "capacity": 2,
+    "startDate": "2026-09-10",
+    "isPublished": true
+  },
+  {
+    "title": "Flutter App Development",
+    "description": "Build cross-platform mobile apps with Flutter and Dart.",
+    "category": "Mobile Development",
+    "instructorName": "Yara Samir",
+    "price": 1300,
+    "durationWeeks": 8,
+    "capacity": 2,
+    "startDate": "2026-10-01",
+    "isPublished": true
+  },
+  {
+    "title": "Ethical Hacking Fundamentals",
+    "description": "Introduction to penetration testing and network security.",
+    "category": "Cybersecurity",
+    "instructorName": "Karim Hassan",
+    "price": 1800,
+    "durationWeeks": 12,
+    "capacity": 1,
+    "startDate": "2026-10-15",
+    "isPublished": true
+  }
+]

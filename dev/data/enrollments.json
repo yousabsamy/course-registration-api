@@ -1,0 +1,4 @@
+[
+  { "studentEmail": "ahmed@test.com", "courseTitle": "Node.js, Express & MongoDB Bootcamp" },
+  { "studentEmail": "sara@test.com", "courseTitle": "Python for Data Analysis" }
+]

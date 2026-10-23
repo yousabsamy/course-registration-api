@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@course-registration.com",
+    "password": "admin1234",
+    "passwordConfirm": "admin1234",
+    "role": "admin"
+  },
+  {
+    "name": "Ahmed Ali",
+    "email": "ahmed@test.com",
+    "password": "student123",
+    "passwordConfirm": "student123",
+    "role": "student"
+  },
+  {
+    "name": "Sara Mohamed",
+    "email": "sara@test.com",
+    "password": "student123",
+    "passwordConfirm": "student123",
+    "role": "student"
+  }
+]

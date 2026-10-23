@@ -1,0 +1,8 @@
+node_modules/
+.env
+logs/*.log
+public/img/students/*
+!public/img/students/.gitkeep
+.DS_Store
+.claude/
+__MACOSX/
